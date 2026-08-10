@@ -17,7 +17,3 @@ Props to the team that made it and hopefully the community can make something aw
  
 Check out the rest of my projects:
 https://github.com/jmarshall23
-
-If you want to get ahold of me for work(I'm 16 year veteran of the game industry, just got laid off due to the AI surge), 
-specifically I do graphics engineering, port work, low level platform work, technical director work, complex gameplay code,
-etc. I've worked on over 20 games or so, my e-mail address is justinmarshall20@gmail.com
